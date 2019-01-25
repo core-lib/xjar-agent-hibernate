@@ -6,7 +6,7 @@ import net.bytebuddy.matcher.ElementMatchers;
 import java.lang.instrument.Instrumentation;
 
 /**
- * XJar JPA Agent
+ * XJar Hibernate Agent
  *
  * @author Payne 646742615@qq.com
  * 2019/1/25 13:06

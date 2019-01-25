@@ -9,7 +9,7 @@ import java.util.concurrent.Callable;
 import java.util.jar.JarFile;
 
 /**
- * JPA Interceptor
+ * XJar Hibernate Interceptor
  *
  * @author Payne 646742615@qq.com
  * 2019/1/25 14:46

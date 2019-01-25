@@ -7,7 +7,7 @@ import java.util.jar.JarFile;
 import java.util.zip.ZipEntry;
 
 /**
- * Jar File
+ * XJar File
  *
  * @author Payne 646742615@qq.com
  * 2019/1/25 14:54

@@ -8,7 +8,7 @@ import net.bytebuddy.matcher.ElementMatchers;
 import net.bytebuddy.utility.JavaModule;
 
 /**
- * JPA Transformer
+ * XJar Hibernate Transformer
  *
  * @author Payne 646742615@qq.com
  * 2019/1/25 14:39
